@@ -71,7 +71,7 @@
 	<distributionManagement>
 		<snapshotRepository>
 			<id>artifactory</id>
-			<url>http://15.206.151.103:8081/artifactory/my-artifact</url>
+			<url>http://15.206.151.103:8082/artifactory/my-artifact</url>
 		</snapshotRepository>
 	</distributionManagement>
 
