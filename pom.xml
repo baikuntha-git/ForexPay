@@ -116,10 +116,10 @@
 			    <version>6.4.4</version>
 			    <configuration>
                               <url>jdbc:mysql://13.127.56.37:3306</url>
-                              <user>claimuser1</user>
+                              <user>forexuser1</user>
 		              <password>H@ckath0n</password>
 			      <schemas>
-                                 <schema>claimdb</schema>
+                                 <schema>forexdb</schema>
                               </schemas>
                            </configuration>
 			</plugin>
