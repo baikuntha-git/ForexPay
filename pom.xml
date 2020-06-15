@@ -122,6 +122,7 @@
                                  <schema>claimdb</schema>
                               </schemas>
                            </configuration>
+			</plugin>
 		</plugins>
 	</build>
 
